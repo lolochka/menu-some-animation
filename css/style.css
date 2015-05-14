@@ -7,8 +7,9 @@ body{
 }
 
 .nav-item{
+    box-sizing: border-box;
     display: inline-block;
-    width:19.3%;
+    width:20%;
     }
 
 .nav-item a {
